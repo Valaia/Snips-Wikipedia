@@ -11,7 +11,7 @@ but that means loading many thousands of terms (searchable items) into the skill
 ## Installation
 
 ```
-sam install skills --git https://gitlab.smb-tec.com/snips.ai/skills/snips-wikipedia.git
+sam install skills --git https://github.com/Valaia/Snips-Wikipedia.git
 ```
 
 ## Usage
